@@ -1,4 +1,7 @@
-Let's start by creating a short program that displays "Hello, world!". If you put “Hello, world!” in a file by itself and run it through Python, it will run, but it won’t print anything. In normal, noniterative Python programs, we need to call (i.e. use) the print function (the word “print” followed by an open “(“ and closed “)” parentheses) to output text.
+Let's start by creating a short program that displays "Hello, world!". If you put “Hello, world!” in
+a file by itself and run it through Python, it will run, but it won’t print anything. In normal,
+noniterative Python programs, we need to call (i.e. use) the print function (the word “print”
+followed by an open “(“ and closed “)” parentheses) to output text.
 
 Example:
 print("Hello, world!")
