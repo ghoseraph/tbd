@@ -1,0 +1,9 @@
+In normal, noniterative Python programs, we need to call (i.e.
+use) the print function (print followed by an open and closed
+parentheses) to output text.
+
+Example:
+print("Hello, world!")
+
+Output:
+Hello, world!
